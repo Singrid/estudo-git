@@ -1,15 +1,5 @@
 # estudo-git
 
-* asjiaj
-* kajfapjf
-* fmpfjpd
-
-- kfakfj
-- fnsof
-
-1. jfskdjf
-2. fkspfks
-3. fpskf
 
 Apenas [estudos](http://google.com)
 
